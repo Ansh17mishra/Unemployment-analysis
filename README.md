@@ -26,6 +26,5 @@ The analysis reveals the impact of the COVID-19 crisis on unemployment rates acr
 Contributors
 Anshuman Mishra
 
-License
-This project is licensed under the MIT License.
+
 
