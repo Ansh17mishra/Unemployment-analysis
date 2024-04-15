@@ -23,7 +23,7 @@ Run the Jupyter Notebook unemployment-in-india.ipynb to reproduce the analysis.
 ## Results
 The analysis reveals the impact of the COVID-19 crisis on unemployment rates across different states in India. Key findings and insights are summarized within the Jupyter Notebook.
 
-Contributors
+Contributors:
 Anshuman Mishra
 
 
